@@ -1,0 +1,93 @@
+div{width:0 auto;margin: 0 auto;}
+
+
+h1 {text-align: center; 
+    text-decoration: overline;
+    text-decoration-color: purple;
+    text-shadow: 2px 2px 5px purple;
+    color: violet;
+    font-size: 300%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+img {
+    border-radius: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+  
+  button {
+         background-color: purple;
+         border:violet;
+         color: white;
+         padding: 15px 32px;
+         text-align: center;
+         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         justify-content: center;
+         align-items:center;
+         width: 24%;
+          }
+
+#datos { color: purple ;
+    width: 30% ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:relative;
+    left:1%;
+    top: 1px;
+    right:24%;
+}
+
+#email { color: purple ;
+    width: 30% ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:relative;
+    left: 26%;
+    top:0%;
+    right: 49%;
+}
+
+
+#direccion{ color: purple ;
+    width: 30% ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:relative;
+    left: 51%;
+    top:0%;
+    right: 74%;
+}
+
+
+#telefono{ color: purple ;
+    width: 30% ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:relative;
+    left: 76%;
+    top:0%;
+    right: 99%;}
+    
+    
+
+h2,h3,h4 {text-align: center; 
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color: violet;
+          font-size: 150%;
+          text-shadow: 2px 2px 5px purple;
+}
+
+li {text: align 15px;; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
